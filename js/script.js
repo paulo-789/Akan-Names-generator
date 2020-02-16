@@ -35,7 +35,7 @@ function getName(){  //calling
     else if(mm<=0||mm>12){
         alert("invalid year please put the correct month!")
     }
-    if(yy<1990||yy>2020){
+    if(yy<1900||yy>2020){
         alert("invalid year please put the correct year!")
     }
     else if(cc<19||cc>20){
