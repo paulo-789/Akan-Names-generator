@@ -20,7 +20,7 @@ The name are written in Ghana.
 
 ## Live Link
 
-
+https://paulo-789.github.io/Akan-Names-generator/.
 
 ## Technologies used
 * HTML 5-For the structuring .
