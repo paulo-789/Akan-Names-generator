@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="my css/styles.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="page-header">
+            <h1>AKAN NAMES</h1>
+        </div>
+        <br>
+        <br>
+        <div class="jumbotron">
+            <p>The people of Ghana use names known as Akan-names to name their children .This goes in line with the days
+                of the week .</p>
+            <p>This application will help them know their aname as well as the days of the week they were born.</p>
+        </div>
+        
+        <p>To see your Akan-name and the day of the week you were born please fill details to the form below</p>
+        <p id="text"></p>
+    
+        <div id="form">
+            <form onsubmit="return false">
+                <label>Gender:</label>
+                <input type="radio" name="male" id="male">male
+                <input type="radio" name="female" id="female">female<br><br>
+
+                <label>Day:</label>
+                <input type="text" name="day" id="day" min="1" max="31"><br><br>
+
+                <label>Month:</label>
+                <input type="text" name="month" id="month" min="1" max="12"><br><br>
+
+                <label>Year:</label>
+                <input type="text" name="year" id="year"><br><br>
+
+                <label>Century:</label>
+                <select name="Century" id="century">
+                    <option value="20th">20th</option>
+                    <option value="19th">19th</option>
+                </select><br><br>
+
+                <button type="submit" name="submit" onclick="getName()" class="btn-outline-info btn-lg">Submit</button>
+
+                <button type="reset" name="submit" class="btn-outline-danger btn-lg">reset</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
