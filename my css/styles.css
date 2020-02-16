@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-size:x-large;
+    background-image: linear-gradient(rgba( 0, 0, 0, 0.781), rgba(0, 0, 0, 0.788)),url(https://bit.ly/2OSDPfx);
+    color:white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+form{
+    widows: 100%;
+    padding: 20px 20px;
+    margin:20%;
+}
+.jumbotron{
+    color: white;
+    
+}
