@@ -31,7 +31,7 @@ function myFunction(){  //calling
         "Kofi",
         "Kwame",
     ];
-    var
+    var weekDays=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friaday","Saturday"];
 
 
    
