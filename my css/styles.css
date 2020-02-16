@@ -9,10 +9,11 @@ body{
 }
 form{
     widows: 100%;
-    padding: 20px 20px;
-    margin:20%;
+    padding: 12px 20px;
+    margin:8px 0;
+    box-sizing: border-box;
 }
 .jumbotron{
     color: white;
-    
+
 }
