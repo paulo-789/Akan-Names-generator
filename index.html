@@ -24,8 +24,23 @@
         <div id="form">
             <form>
                 <label>Gender;</label>
-                <input type="radio" value="male" id="male">male
-                <input type="radio" value="female" id="female">female<br>
+                <input type="radio" name="male" id="male">male
+                <input type="radio" name="female" id="female">female<br>
+                <label>Day:</label>
+                <input type="text" name="day"  id="day" min="1" max="31"><br>
+                <label>Month</label>
+                <input type="text" name="month"  id="day" min="1" max="12"><br>
+                <label>Year</label>
+                <input type="text" name="year"  id="year" ><br>
+                <label>Century</label>
+                <select name="Century" id="Century">
+                    <option value="20th">20th</option>
+                    <option value="19th">19th</option>
+                </select>
+                <button type="submit" name="submit" onclick="myFunction()">Submit</button>
+            
+
+                <button type
 
             </form>
         </div>
