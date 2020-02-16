@@ -10,6 +10,30 @@ function myFunction(){  //calling
     var male=document.getElementById("male");
     var female=document.getElementById("female");
 
+
+
+     //stating arrays
+     var femaleNames=[
+        "Akosua",
+        "Adowa",
+        "Akua",
+        "Yaa",
+        "Afua",
+        "Afua",
+        "Ama"
+    ];
+    var maleNames=[
+        "Kwasi",
+        "Kwadwo",
+        "Kwabena",
+        "Kwafu",
+        "Yaw",
+        "Kofi",
+        "Kwame",
+    ];
+    var
+
+
    
 
 
