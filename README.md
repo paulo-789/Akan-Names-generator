@@ -32,7 +32,7 @@ https://paulo-789.github.io/Akan-Names-generator/.
 ## Behaviour Driven Development(BDD)
 The website requires one to fill in the correct gender ,then the year you were  born, the day/date  and the century.
 Upon completion of filling in your details writings colored in red appears indicating your name and the day of the week you 
-were born.
+were born.The values should be file in members.
 
 ### Contribution
  Feel free to air out you views of what you think I should improve on or what I should stop doing.
