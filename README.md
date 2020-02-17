@@ -4,6 +4,7 @@
 
 ## Author
  Paul Onyango
+ A software developer.
 
 
 ## Description
@@ -35,3 +36,7 @@ were born.
 
 ### Contribution
  Feel free to air out you views of what you think I should improve on or what I should stop doing.
+
+ ### Contacts
+  Tel:0746561438
+  Email:paulnyango021@gmail.com
