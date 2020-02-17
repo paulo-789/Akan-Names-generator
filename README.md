@@ -38,5 +38,5 @@ were born.The values should be file in members.
  Feel free to air out you views of what you think I should improve on or what I should stop doing.
 
  ### Contacts
-  Tel:0746561438
-  Email:paulnyango021@gmail.com
+  *Tel:0746561438
+  *Email:paulnyango021@gmail.com
