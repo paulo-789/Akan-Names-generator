@@ -1,4 +1,4 @@
-function getName(){  //calling
+function myFunction(){  //calling
     var cc=document.getElementById("century");
     var yy=parseInt(document.getElementById("year").value)
     var mm=parseInt(document.getElementById("month").value)
@@ -35,7 +35,7 @@ function getName(){  //calling
     else if(mm<=0||mm>12){
         alert("invalid year please put the correct month!")
     }
-    if(yy<1900||yy>2020){
+    if(yy<190||yy>2020){
         alert("invalid year please put the correct year!")
     }
     else if(cc<19||cc>20){
