@@ -16,7 +16,7 @@ The name are written in Ghana.
  * Open the terminal in your device.
  * git clone
  * cd Akan-name -generator
- * use cord or atom to open
+ * use code or atom to open
 
 
 ## Live Link
